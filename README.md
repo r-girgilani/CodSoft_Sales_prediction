@@ -4,12 +4,12 @@ Sales Prediction Using Python
 A step-by-step process for data analysis and building a machine learning model for sales prediction includes :
 
 1.Data Exploration and Preparation:
-. Load and understand the dataset.
-. Handle missing values and data transformations.
+- Load and understand the dataset.
+* Handle missing values and data transformations.
 
 2.Data Visualization and Analysis:
-. Explore relationships between features and sales through EDA.
-. Visualize data to identify patterns and correlations.
+- Explore relationships between features and sales through EDA.
+* Visualize data to identify patterns and correlations.
 
 3.Feature Selection:
 . Choose relevant features based on importance.
